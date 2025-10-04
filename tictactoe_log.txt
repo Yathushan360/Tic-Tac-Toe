@@ -1,0 +1,4 @@
+--- New Game Log ---
+Board Size: 3x3
+Game Mode: 3
+
